@@ -1,2 +1,15 @@
-このソフトウェアパッケージは、３条項BSDライセンスの下、再配布及び仕様が許可されます。
-2025　Hibiki Fukuda
+# plus コマンド
+
+![test](https://github.com/fukuda-hibiki/lect4/actions/workflows/test.yml/badge.svg)
+
+標準入出力から読み込んだ数の足し算をします。
+
+## 必要なソフトウェア
+* Python
+ * テスト済み: 3.7~3.10
+
+## テスト環境
+
+* Ubuntu
+
+© DW
